@@ -7,7 +7,7 @@
 <center><img src="https://github.com/hmz-hh/pp/raw/refs/heads/main/AddText_01-29-01.31.25.png" alt="banner" width="500"/></center>
 
 ---
-**ZiVPN Manager provides a user-friendly interface to efficiently manage your ZiVPN UDP server.**
+**ZiVPN Manager provides a user-friendly interface to efficiently manage your v2ray and ssh server.**
 
 </div>
 
