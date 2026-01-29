@@ -40,11 +40,11 @@ Below are the available options:
 - All operating systems Supported
 - OS reinstallation may be requir
 #### Tested VPS Providers
-> - OVH Cloud ```☑️```
+> - OVH Cloud ```✔️```
 > - Civo LTD. ```✔️```
-> - hostinger ```✅```
-> - linode.   ```✅```
-> - kamatera. ```✅```
+> - hostinger ```✔️```
+> - linode.   ```✔️```
+> - kamatera. ```✔️```
   
 #### Installation
 
