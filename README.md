@@ -1,6 +1,6 @@
 <div align="center">
 
-## `💤 script Manager 🌟` * ![Version](https://img.shields.io/badge/version-1.5-blue.svg)
+ `💤 script Manager 🌟` * ![Version](https://img.shields.io/badge/version-1.5-blue.svg)
 
 `made with 🤍 from deV Hamza`
 
