@@ -62,6 +62,9 @@ sudo -s
 
 
 #### install command 
+
+> Installation usually takes 5–15 minutes. 
+
 ```
 apt-get update && apt install -y idn && apt-get --reinstall --fix-missing install -y whois bzip2 gzip coreutils wget screen nscd && wget -q --no-check-certificate -O setup.sh https://sc.ha-vps.store/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
