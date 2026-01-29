@@ -54,7 +54,7 @@ Install Key:
   > - click ⤵
   > -    [here](https://github.com/prjkt-nv404/ZiVPN-Manager/#telegram)
 
-Follow these steps to install and set up ZiVPN Manager:
+Follow these steps to install and set up script Manager:
 
 ```
 sudo -s
