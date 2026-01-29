@@ -109,8 +109,8 @@ menu
 #### Credit
 
  > - zi owners
- > - [𝑖𝑦𝑘𝑒](https://t.me/deviyke) @deviyke
- > - [Kwadeous](https://t.me/Kwadeous) @Kwadeous
+ > - [hamza](https://t.me/a_hamza_i) @a_hamza_i
+ > - [admins](https://t.me/free_net_mrr) @free_net_mrr
 
 <div align="center">
 
