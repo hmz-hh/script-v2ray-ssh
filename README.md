@@ -104,9 +104,7 @@ __**By using ZiVPN Manager, you agree to assume all risks associated with its us
 #### Telegram 
  > [💲 Pay 💲](https://t.me/voltverifybot)  ```Installation Keys & Payment```
 
- > [👨🏽‍💻 HAMZA 🧑‍💻]
-(t.me/a_hamza_i)
-```Admin```
+ > [👨🏽‍💻 HAMZA 🧑‍💻](t.me/a_hamza_i)  ```Channel```
 
  > [📣 INTERNET VPS 📣](https://t.me/free_net_mrr)  ```Channel```
 
