@@ -2,7 +2,7 @@
 
 ## `💤 ZiVPN Manager 🌟` * ![Version](https://img.shields.io/badge/version-1.5-blue.svg)
 
-`made with 🤍 from Boomerang Nebula`
+`made with 🤍 from deV Hamza`
 
 <center><img src="https://github.com/hmz-hh/pp/raw/refs/heads/main/AddText_01-29-01.31.25.png" alt="banner" width="500"/></center>
 
@@ -116,6 +116,6 @@ __**By using ZiVPN Manager, you agree to assume all risks associated with its us
 
 <div align="center">
 
-  `made with 🤍 from Boomerang Nebula`
+  `made with 🤍 from deV Hamza`
 
 </div>
