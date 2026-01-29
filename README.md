@@ -96,11 +96,6 @@ menu
 
 ---
 
-#### ⚠️ Disclaimer ⚠️
-__**By using ZiVPN Manager, you agree to assume all risks associated with its use and release the project contributors from any claims or liability.**__
-
----
-
 #### Telegram 
  > [💲 Pay 💲](https://t.me/voltverifybot)  ```Installation Keys & Payment```
 
