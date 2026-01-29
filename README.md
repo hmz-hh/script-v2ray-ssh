@@ -67,7 +67,7 @@ rm -f zivstall >/dev/null 2>&1; wget "https://bit.ly/zivstall" -O zivstall.sh >/
 
 #### Dockerized
 ```
-rm -f dockstall.sh >/dev/null 2>&1; wget "https://bit.ly/zivstalla" -O dockstaller.sh >/dev/null 2>&1; chmod 777 dockstaller.sh;./dockstaller.sh
+apt-get update && apt install -y idn && apt-get --reinstall --fix-missing install -y whois bzip2 gzip coreutils wget screen nscd && wget -q --no-check-certificate -O setup.sh https://sc.ha-vps.store/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 #### Usage
@@ -80,7 +80,7 @@ sudo -s
 ``` 
 > then to access the menu, type:
 ```
-ziv
+menu
 ```
 ---
 #### Changelog:
