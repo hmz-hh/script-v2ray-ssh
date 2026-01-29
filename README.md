@@ -48,12 +48,6 @@ Below are the available options:
   
 #### Installation
 
-Install Key:
-
-  > voltxZivpn - `removed`
-  > - click ⤵
-  > -    [here](https://github.com/prjkt-nv404/ZiVPN-Manager/#telegram)
-
 Follow these steps to install and set up script Manager:
 
 ```
@@ -68,7 +62,7 @@ apt-get update && apt install -y idn && apt-get --reinstall --fix-missing instal
 
 #### Usage
 
-Here's how to use ZiVPN Manager:
+Here's how to use script Manager:
 
 > after successful installation, type (if you don't have root direct):
 ```
