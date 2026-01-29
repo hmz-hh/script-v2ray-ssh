@@ -12,6 +12,15 @@
 
 </div>
 
+### protocols 
+- ssh WEBSOCKET 
+- ssh WEBSOCKET
+- ssh WEBSOCKET
+- ssh WEBSOCKET
+- ssh WEBSOCKET
+- ssh WEBSOCKET
+
+
 ### Features
 Below are the available options:
 - Menu Options
@@ -34,7 +43,10 @@ Below are the available options:
 #### Tested VPS Providers
 > - OVH Cloud ✅
 > - Civo LTD. ✅
-
+> - hostinger ✅
+> - linode.   ✅ 
+> - kamatera. ✅
+  
 #### Installation
 
 Install Key:
