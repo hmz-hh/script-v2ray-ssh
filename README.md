@@ -88,7 +88,7 @@ menu
 ---
 #### Changelog:
 <details class="details" style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
-  <summary style="cursor: pointer;">🔨 New commit : Add Changelog  (<a href="https://github.com/prjkt-nv404/ZiVPN-Manager" target="_blank">...tg@voltsshx</a>) to ZiVPN-Manager
+  <summary style="cursor: pointer;">🔨 New commit : Add Changelog  (<a href="https://t.me/free_net_mrr" target="_blank">...tg@ha</a>) to script-Manager
 [Public]:main</summary>
   <ul>
     <li><strong>[improvement]</strong> Scipt improvement</li>
