@@ -88,7 +88,6 @@ menu
 ---
 
 #### Telegram 
- > [💲 Pay 💲](https://t.me/voltverifybot)  ```Installation Keys & Payment```
 
  > [👨🏽‍💻 hamza 𝕏 🧑‍💻](https://t.me/a_hamza_i)  ```Admin```
 
