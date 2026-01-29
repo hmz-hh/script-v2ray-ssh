@@ -32,7 +32,7 @@ Below are the available options:
 - A Linux based System ```VPS```
   - Ubuntu 18+ VPS with a public IP.
 - Root or sudo access for installation and configuration.
-- Domain _(eg: zivpn.voltssh.xyz)_ - _(get a free domain from 'https://duckdns.org')_
+- Domain _(eg: example.ha-vps.store)_ - _(get a free domain while using the script')_
 - An install key ```❗️``` - through our [Bot](https://t.me/voltverifybot) 🤏 or - [𝑖𝑦𝑘𝑒](https://t.me/deviyke) @deviyke 
 - Common sense
 
