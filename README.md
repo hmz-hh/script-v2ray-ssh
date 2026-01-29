@@ -40,15 +40,13 @@ Below are the available options:
 - Menu Options
 - Improved management
 - Uninstall Guide
-  - Instructions for safely uninstalling ZiVPN.
-
+  - Account backup And many advantages. 
 
 #### Requirement
 - A Linux based System ```VPS```
-  - Ubuntu 18+ VPS with a public IP.
+  -  VPS with a public IP.
 - Root or sudo access for installation and configuration.
 - Domain _(eg: example.ha-vps.store)_ - _(get a free domain while using the script')_
-- An install key ```✅``` - through our [Bot](https://t.me/voltverifybot) 🤏 or - [𝑖𝑦𝑘𝑒](https://t.me/deviyke) @deviyke 
 - Common sense
 
 #### Tested OS
