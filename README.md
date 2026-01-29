@@ -93,7 +93,7 @@ menu
   <ul>
     <li><strong>[improvement]</strong> Scipt improvement</li>
     <li><strong>---</strong></li>
-    <li><strong>[todo:]</strong> Download & Upload user accounts backup over HTTP browser</li>
+    <li><strong>[todo:]</strong> Download & Upload user accounts backup over bot Telegram</li>
     <li><strong>---</strong></li>
   </ul>
 </details>
