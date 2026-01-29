@@ -37,8 +37,8 @@ Below are the available options:
 - Common sense
 
 #### Tested OS
-- ubuntu 20.04 [x86_64] ✅ _(mandatory)_
-
+- All operating systems Supported
+- OS reinstallation may be requir
 #### Tested VPS Providers
 > - OVH Cloud ✅
 > - Civo LTD. ✅
