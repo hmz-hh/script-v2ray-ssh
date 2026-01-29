@@ -104,9 +104,9 @@ __**By using ZiVPN Manager, you agree to assume all risks associated with its us
 #### Telegram 
  > [💲 Pay 💲](https://t.me/voltverifybot)  ```Installation Keys & Payment```
 
- > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜²𝚑 𝕏 🧑‍💻](https://t.me/voltsshx)  ```Admin```
+ > [👨🏽‍💻 HAMZA 🧑‍💻](t.me/a_hamza_i)  ```Admin```
 
- > [📣 LS Tunnel 📣](https://t.me/lstunnel)  ```Channel```
+ > [📣 INTERNET VPS 📣](https://t.me/free_net_mrr)  ```Channel```
 
 #### Credit
 
